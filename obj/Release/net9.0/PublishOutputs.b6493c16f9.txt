@@ -1,0 +1,1 @@
+D:\Temp\Blazor\BlazorPwaTest\publish\web.config
